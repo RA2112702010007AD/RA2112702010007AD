@@ -81,9 +81,9 @@ Building intelligent AI systems with LLMs, Agentic AI, Retrieval-Augmented Gener
 
 ## 📄 Reflective RAG: A Self-Correcting Cognitive Framework for Reducing Hallucinations in AI Research Assistants
 
-Published at **IEEE ICICT 2026**
+Published at **IEEE ICICT 2026** **DOI: 10.1109/ICICT65378.2026.11510860**
 
-🔗 https://doi.org/10.1109/ICICT65378.2026.11510860
+🔗 https://ieeexplore.ieee.org/document/11510860
 
 ---
 
