@@ -197,15 +197,6 @@ Deep Learning based facial emotion recognition using CNN.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RA2112702010007AD&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
