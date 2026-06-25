@@ -217,12 +217,10 @@ Deep Learning based facial emotion recognition using CNN.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/RA2112702010007AD/RA2112702010007AD/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
+  <img src="https://raw.githubusercontent.com/RA2112702010007AD/RA2112702010007AD/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
 
 > **Note:** You'll need to add a GitHub Action to generate the snake animation automatically.
